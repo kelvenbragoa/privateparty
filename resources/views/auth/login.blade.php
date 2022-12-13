@@ -16,11 +16,10 @@
 	<link href="{{asset('template2/css/app.css')}}" rel="stylesheet">
 </head>
 
-{{-- <body style="background-image: url('storage/img/sys/background.jpg'); height: 100%; 
+<body style="background-image: url('storage/img/sys/party.jpg'); height: 100%; 
 background-position: center;
 background-repeat: no-repeat;
-background-size: cover;"> --}}
-<body>
+background-size: cover;">
 	
 
 	<main class="d-flex w-100">
@@ -31,10 +30,8 @@ background-size: cover;"> --}}
 						<div class="card">
 							<div class="text-center mt-4">
 								<h1 class="h2">{{__('text.welcome_back')}}</h1>
-								<h1 class="h2">Inogest - Inovatis</h1>
-								<p class="lead">
-									{{__('text.enter_your_account')}}
-								</p>
+								<h1 class="h2">Private Party - Organização</h1>
+								
 							</div>
 							<div class="card-body">
 								<div class="m-sm-4">
